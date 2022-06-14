@@ -8,7 +8,8 @@ My complete implementation of assignments and projects in [***ECE219: Large-Scal
 
 **End-to-End Pipeline Classify News Articles:** Steps include feature extraction, dimensionality reduction, application of simple classification models, evaluation of the pipeline, and application of pre-trained models.
 
-<center><img src="images/nlp.png"/></center>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rmehta678/EE219/tree/main/Project1)
+
 
 ---
 
