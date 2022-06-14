@@ -12,6 +12,7 @@ My complete implementation of assignments and projects in [***ECE219: Large-Scal
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rmehta678/EE219/tree/main/Project1)
 
+<center><img src="images/TF_IDF.png"/></center>
 
 ---
 
