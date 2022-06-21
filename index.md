@@ -17,7 +17,8 @@ The below section includes my implementation of assignments and projects in [***
 
 ---
 
-**Data Representations and Clustering** Conversion of raw text data into feature representations and comparison of different clustering methods along with clustering metrics; additionally dimensionality reduction for visual representation of clusters
+**Data Representations and Clustering:** Conversion of raw text data into feature representations and comparison of different clustering methods along with clustering metrics; additionally dimensionality reduction for visual representation of clusters
 
+<center><img src="images/clustering.png"/></center>
 ---
 <center>© 2020 RohanMehta. Powered by Jekyll and the Minimal Theme.</center>
