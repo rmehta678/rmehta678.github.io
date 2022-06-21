@@ -23,4 +23,13 @@ The below section includes my implementation of assignments and projects in [***
 
 <center><img src="images/clustering.png"/></center>
 ---
+
+**Recommender Systems:** Comparison of collaborative filtering models based on user ratings of movies. Implementations include neighborhood-based and model-based collaborative filtering methods to predict user movie ratings, and metrics used to evaluate such methods.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rmehta678/EE219/tree/main/Project2)
+
+<center><img src="images/recommender.png"/></center>
+
+---
+
 <center>© 2020 RohanMehta. Powered by Jekyll and the Minimal Theme.</center>
